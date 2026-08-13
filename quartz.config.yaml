@@ -1,45 +1,31 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Field Notes
-  pageTitleSuffix: ""
-  enableSPA: true
-  enablePopovers: true
-  analytics:
-    provider: plausible
-  locale: en-US
-  baseUrl: notes.abishai.in
-  ignorePatterns:
-    - private
-    - templates
-    - .obsidian
+  pageTitle: "Field Notes"
   theme:
-    fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Karla
+      header: Newsreader
       body: Inter
-      code: IBM Plex Mono
+      code: JetBrains Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#fbf9f5"         # Warm off-white background
+        lightgray: "#e8e4dc"     # Thin rules and borders
+        gray: "#8c877d"          # Muted metadata
+        darkgray: "#2b2a28"      # Body text
+        dark: "#141413"          # Headings
+        secondary: "#2b2a28"     # Links
+        tertiary: "#78736a"      # Link hover
+        highlight: "rgba(0, 0, 0, 0.04)"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#141413"
+        lightgray: "#2b2a28"
+        gray: "#8c877d"
+        darkgray: "#e8e4dc"
+        dark: "#fbf9f5"
+        secondary: "#e8e4dc"
+        tertiary: "#b5b0a5"
+        highlight: "rgba(255, 255, 255, 0.05)"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true

@@ -1,65 +1,64 @@
 @use "./variables.scss" as *;
 
-// Typography to match Cargo site
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Karla", sans-serif !important;
-  font-weight: 400 !important;
-  letter-spacing: -0.01em !important;
-}
-
-body, p, li {
-  font-family: "Inter", sans-serif !important;
-  font-size: 0.85rem !important;
-  line-height: 1.6 !important;
-  color: #2a2a2a !important;
-}
-
-// Warm off-white background like Cargo
+// Base typography & container aesthetics
 body {
-  background-color: #f5f4f0 !important;
+  background-color: var(--light);
+  color: var(--darkgray);
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  -webkit-font-smoothing: antialiased;
 }
 
-.page {
-  background-color: #f5f4f0 !important;
+// Crisp, non-rounded structural borders
+div, article, section, input, code, pre, .popover {
+  border-radius: 0px !important;
 }
 
-// Minimal navigation
-.left {
-  border-right: 1px solid #e0ddd8 !important;
-}
-
-// Thin rules like Cargo
+// Thin horizontal rules
 hr {
-  border: none !important;
-  border-top: 1px solid #e0ddd8 !important;
+  border: none;
+  border-top: 1px solid var(--lightgray);
+  margin: 2rem 0;
 }
 
-// Clean links
+// Page title styling
+.page-header {
+  border-bottom: 1px solid var(--lightgray);
+  padding-bottom: 1rem;
+  margin-bottom: 2rem;
+}
+
+// Link styling matching minimal editorial design
 a {
-  color: #2a2a2a !important;
-  text-decoration: none !important;
+  text-decoration: none;
+  border-bottom: 1px solid var(--gray);
+  transition: border-color 0.2s ease, color 0.2s ease;
+
+  &:hover {
+    border-bottom-color: var(--dark);
+    color: var(--tertiary);
+  }
 }
 
-a:hover {
-  text-decoration: underline !important;
+// Remove tag pill backgrounds for plain text tag appearance
+a.internal.tag-link {
+  background: none !important;
+  border: none !important;
+  color: var(--gray) !important;
+  padding: 0 !important;
+  font-size: 0.85em;
+
+  &::before {
+    content: "#";
+  }
+  
+  &:hover {
+    color: var(--dark) !important;
+  }
 }
 
-// Search overlay
-.search-results {
-  backdrop-filter: blur(20px) !important;
-  -webkit-backdrop-filter: blur(20px) !important;
-  background: rgba(245, 244, 240, 0.92) !important;
-}
-
-// Minimal callouts
-blockquote {
-  border-left: 1px solid #2a2a2a !important;
-  padding: 0.75rem 1rem 0.75rem 1.25rem !important;
-  margin: 1rem 0 !important;
-  font-style: italic !important;
-}
-
-// Hide graph view for personal site
-.graph {
-  display: none !important;
+// Search bar & input refinement
+.search-button, input[type="text"] {
+  border: 1px solid var(--lightgray) !important;
+  background: transparent !important;
+  box-shadow: none !important;
 }
