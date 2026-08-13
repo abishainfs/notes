@@ -1,0 +1,7 @@
+The spirit of noma is kind of like being jerked around and not home. The sudden jerks, accelerating and immediately losing velocity, are just a constant push but you are physically unable to go further. The distance that is available to you is just a matter of you showing your enthusiasm to accelerate as much as you can in that limited distance. It is available to everybody. You can't even talk in a moving auto. You are constantly jerked around. You're pushed back and forth so often that you are out of breath when you talk.
+
+This is why I sometimes prefer taking a bike taxi. You're just at least you move smoother and because we're in the back of an auto, it really takes it on as well. It's a stiff box, no comfort. You just get to carry some more objects with you and that's about it
+
+You thought you could work or read only if you're stuck in traffic. That's perhaps where the auto becomes most comfortable. You get to sit in a nice comfortable position while you're waiting in traffic. That's not something you can do on a two-wheeler.
+
+Through hills and downhills as soon as there is a lag or a gap in acceleration, the auto jerks your back with equal force as it propels you forward so your breath is behind you and it's accelerating and then you suddenly are pushing. While you're going back, you're able to catch your breath but only for a fleeting moment as you are pushed back behind 

@@ -1,1 +1,5 @@
-# Field Notes
+---
+title: Field Notes
+---
+
+Welcome to Field Notes.
