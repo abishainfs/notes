@@ -1,7 +1,9 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-baseUrl: notes.abishai.in
   pageTitle: "Field Notes"
+  baseUrl: notes.abishai.in
+  ignorePatterns:
+    - ".obsidian"
   theme:
     cdnCaching: true
     typography:
