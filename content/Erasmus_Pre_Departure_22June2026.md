@@ -226,8 +226,3 @@ What I *do* have on record: Erasmus Mundus students headed to Portuguese institu
 - [ ]
 
 ---
-
-### Open questions still unanswered after today
--
--
--
