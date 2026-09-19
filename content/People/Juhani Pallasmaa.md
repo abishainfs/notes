@@ -1,0 +1,5 @@
+I was but a young boy in 2019 Samir Sir from Page organized a special workshop for me and Varun to go to Hyderabad before a studio test to learn, discuss, and tutor with this man called Juhani. We stayed there, talked to them, and walked to them. While walking around in his garden I found this piece of paper folded up, unfolded it, and read it. It was Juhani Pallasmaa's notes on the 1975 album "Identity, Intimacy, and Domicile," I think. I'll link the thing below.
+
+I found it lying on the grass and read it. I thought that was one of the most thoughtful pieces of writing about design and architecture that I had encountered up until that point in my life. I had no idea about architecture, nothing of the sort, but reading this paper really piqued my interest. I think it laid the foundation for my respect for architecture and placemakers and spacemakers before I got accepted!
+
+![[Pallasmaa paper.webp]]
