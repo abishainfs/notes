@@ -11,7 +11,10 @@ else
 fi
 
 echo "Syncing from $VAULT..."
-cp -r "$VAULT"/* content/
+rsync -a --delete \
+    --exclude='.obsidian/' \
+    --exclude='.DS_Store' \
+    "$VAULT"/ content/
 git add -A
 git stash
 echo "Pulling latest changes..."
