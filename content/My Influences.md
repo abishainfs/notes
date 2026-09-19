@@ -2,7 +2,7 @@
 #### Designers who have impacted me
 
 >[!tip] Another List of Famous Designers?
->This list has only one purpose. To codify and identify what each of these designers have contributed to me.
+>This list has a personal purpose. To catalog and identify what and how each of these people/designers have contributed to me!
 
 
 [[Juhani Pallasmaa]] 
