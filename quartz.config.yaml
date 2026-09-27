@@ -236,6 +236,10 @@ plugins:
     options:
       includeAll: false
       includedProperties:
+        - title
+        - Tutor
+        - Class
+        - Type
         - description
         - tags
         - aliases
