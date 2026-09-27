@@ -1,6 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: "Field Notes"
+  locale: en-US
   baseUrl: notes.abishai.in
   ignorePatterns:
     - ".obsidian"
@@ -86,7 +87,7 @@ plugins:
       renderEngine: katex
     order: 80
   - source: github:quartz-community/citations
-    enabled: true
+    enabled: false
     order: 85
   - source: github:quartz-community/hard-line-breaks
     enabled: true
