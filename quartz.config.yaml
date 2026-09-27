@@ -199,6 +199,8 @@ plugins:
       group: toolbar
   - source: github:quartz-community/breadcrumbs
     enabled: true
+    options:
+      showCurrentPage: false
     layout:
       position: beforeBody
       priority: 5
@@ -236,12 +238,10 @@ plugins:
     options:
       includeAll: false
       includedProperties:
-        - title
         - Tutor
         - Class
         - Type
         - description
-        - tags
         - aliases
       excludedProperties: []
       hidePropertiesView: false

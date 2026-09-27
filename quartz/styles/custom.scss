@@ -27,6 +27,95 @@ hr {
   margin-bottom: 2rem;
 }
 
+// More breathing room around the reading column and content edges.
+.page > #quartz-body {
+  box-sizing: border-box;
+  column-gap: clamp(1.25rem, 3vw, 3rem);
+  padding-inline: clamp(1rem, 2.5vw, 2.5rem);
+}
+
+.page > #quartz-body .center {
+  min-width: 0;
+}
+
+.page-header {
+  border-bottom: 0;
+  padding-bottom: 0;
+  margin-bottom: 2.25rem;
+}
+
+.page-header .breadcrumb-container {
+  margin: 0 0 1.5rem;
+  gap: 0.7rem;
+  line-height: 1.6;
+}
+
+.page-header .article-title {
+  margin: 0 0 1rem;
+  font-size: clamp(1.9rem, 3vw, 2.5rem);
+  line-height: 1.2;
+  letter-spacing: -0.025em;
+  text-wrap: balance;
+}
+
+.page-header .content-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1rem;
+  margin: 0.75rem 0 1.25rem;
+  line-height: 1.6;
+}
+
+.note-properties {
+  margin: 1.25rem 0 1.5rem;
+  font-size: 0.95rem;
+}
+
+.note-properties .note-properties-table {
+  table-layout: auto;
+}
+
+.note-properties .note-properties-key {
+  width: 9rem;
+  padding: 0.7rem 1rem;
+  word-break: normal;
+}
+
+.note-properties .note-properties-value {
+  padding: 0.7rem 1rem;
+  word-break: normal;
+  overflow-wrap: anywhere;
+  line-height: 1.65;
+}
+
+.page-header > .tags {
+  gap: 0.6rem;
+  margin: 1rem 0 0;
+}
+
+.page-header > .tags > li {
+  white-space: nowrap;
+}
+
+@media (max-width: 800px) {
+  .page > #quartz-body {
+    padding-inline: clamp(1rem, 5vw, 1.75rem);
+  }
+
+  .page-header .article-title {
+    font-size: clamp(1.75rem, 7vw, 2.15rem);
+  }
+
+  .note-properties .note-properties-key {
+    width: 6.5rem;
+    padding-inline: 0.75rem;
+  }
+
+  .note-properties .note-properties-value {
+    padding-inline: 0.75rem;
+  }
+}
+
 // Link styling matching minimal editorial design
 a {
   text-decoration: none;
