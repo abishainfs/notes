@@ -1,8 +1,5 @@
 # The Positivist Approach in Research
 
-> **REPORT**  
-> *Sunday, September 27, 2026*
-
 Positivism holds that genuine knowledge comes only from observable, measurable facts studied through the methods of natural science. Applied to social and human research, it assumes reality is objective and external, that the researcher stays detached from what is studied, and that the goal is to test hypotheses, find causal laws, and produce results that generalize. In practice it favors quantitative data, structured measurement, and statistical analysis.
 
 ## I. Philosophical Foundations

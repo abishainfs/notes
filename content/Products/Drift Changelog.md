@@ -23,12 +23,12 @@ So the decisions we need to make in this armrestless prototype are:
 
 The other options we had were:
 
-1. Taking a small curve in the front apron at the junction of the leg and the front apron so that the leg is separate from the seat and the apron just touches the seat, creating a sort of American-Oakland-Issuan, I suppose.
+1. Taking a small curve in the front apron at the junction of the leg and the front apron so that the leg is separate from the seat and the apron just touches the seat, creating a sort of
 
 The other decision we needed to take is the new angle of the legs, which we are able to cut out from the existing stock of bent wood that we have. We also need to check the stability of the A-frame based on:
 
 - the depth of the chair
-- how much chatakana it has when it's moved around
+- how much chatakhna it has when it's moved around
 - in general the strength of
 - the torquing of the joint of the apron and the legs
 
