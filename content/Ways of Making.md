@@ -8,4 +8,4 @@ working with jeevaramji and punaram feels very different. the process is less li
 
 because they are based in alibaug also, the rhythm of the process changes. things need more planning beforehand. drawings need to be clearer. sometimes you cannot just stand there and resolve something instantly because material has already moved, or the carpenter working on it that day is someone else entirely. but at the same time, there is stability in that system. scale also becomes possible in a different way. the workshop itself carries knowledge now, not just one person.
 
-both systems produce meaningful work, but through very different kinds of proximity and negotiation between design and making. one feels like an extention of one craftsman’s mind. the other feels like entering into an already existing institution of making and learning how to work with its own rhythm. 
+both systems produce meaningful work, but through very different kinds of proximity and negotiation between design and making. one feels like an extention of one craftsman’s mind. the other feels like entering into an already existing institution of making and learning how to work with its own rhythm.

@@ -1,8 +1,3 @@
----
-Tutor:
-  - Niels Hendriks
-Class: " design research methods for participation"
----
 "The field of human-computer interaction (HCI) emerged in the
 
 early eighties partly as a response to these changing conditions. It

@@ -1,4 +1,3 @@
-
 While Ramachandra Guha does not explicitly map out Pakistani leaders using the same specific color spectrum applied to Indian civil movements, Pakistani political history uses distinct metaphorical "colors" and ideological leanings to categorize its leadership eras:
 
 1. The "Khaki" (Military Bureaucracy & Authoritarianism)Leaders: Ayub Khan, Yahya Khan, Zia-ul-Haq, and Pervez Musharraf.Leaning: This represents the pervasive influence of the military establishment (often referred to as the "Deep State"). Their ideological focus has historically leaned toward centralized state control, strict nationalism, and a national security-first paradigm, often interrupting civilian democratic processes.

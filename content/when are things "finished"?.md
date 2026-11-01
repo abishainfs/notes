@@ -1,4 +1,3 @@
-
 **the chair is not finished when the drawing is finished**
 a chair has to negotiate:
 

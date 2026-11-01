@@ -1,27 +1,25 @@
 #!/bin/bash
+# Publishes notes marked `publish: true` in the almirah vault.
+#   ./sync.sh            rebuild content/, commit and push
+#   ./sync.sh --preview  rebuild content/ only, nothing leaves this machine
+set -euo pipefail
+cd "$(dirname "$0")"
 
-# Detect which machine we're on
-if [ -d "/Users/casegoods01/Documents/almirah/Field Notes" ]; then
-    VAULT="/Users/casegoods01/Documents/almirah/Field Notes"
-elif [ -d "/Users/PREDATOR/Documents/almirah/Field Notes" ]; then
-    VAULT="/Users/PREDATOR/Documents/almirah/Field Notes"
-else
-    echo "Could not find Field Notes vault. Please check the path."
-    exit 1
+if [ "${1:-}" = "--preview" ]; then
+    node scripts/build-content.mjs
+    echo "Preview only. Nothing was committed or pushed."
+    exit 0
 fi
 
-echo "Syncing from $VAULT..."
-rsync -a --delete \
-    --exclude='.obsidian/' \
-    --exclude='.DS_Store' \
-    "$VAULT"/ content/
-git add -A
-git stash
 echo "Pulling latest changes..."
-git pull --rebase
-git stash pop
-echo "Pushing to GitHub..."
+git pull --rebase --autostash
+node scripts/build-content.mjs
 git add -A
+if git diff --cached --quiet; then
+    echo "No changes to sync."
+    exit 0
+fi
 git commit -m "field notes sync: $(date '+%Y-%m-%d %H:%M')"
+echo "Pushing to GitHub..."
 git push
 echo "Done! Site will update in 2-3 minutes."

@@ -4,4 +4,4 @@ This is why I sometimes prefer taking a bike taxi. You're just at least you move
 
 You thought you could work or read only if you're stuck in traffic. That's perhaps where the auto becomes most comfortable. You get to sit in a nice comfortable position while you're waiting in traffic. That's not something you can do on a two-wheeler.
 
-Through hills and downhills as soon as there is a lag or a gap in acceleration, the auto jerks your back with equal force as it propels you forward so your breath is behind you and it's accelerating and then you suddenly are pushing. While you're going back, you're able to catch your breath but only for a fleeting moment as you are pushed back behind 
+Through hills and downhills as soon as there is a lag or a gap in acceleration, the auto jerks your back with equal force as it propels you forward so your breath is behind you and it's accelerating and then you suddenly are pushing. While you're going back, you're able to catch your breath but only for a fleeting moment as you are pushed back behind

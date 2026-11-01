@@ -7,4 +7,3 @@ Clay Christensen's idea that a customer is not the "demographic" that we make th
 ### Morning milkshakes
 
 A fast food restaurant discovered customers were hiring milkshakes for different Jobs throughout the day. In the morning, it was to satiate hunger, make their drive more interesting, and easily hold food in the car. In the afternoon, the shake was a treat for their kids. Turns out, the competition wasn’t other fast food milkshakes; rather,bananas and bagels vs. other kids’ treats.
-

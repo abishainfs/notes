@@ -1,41 +1,38 @@
-
 #### Designers who have impacted me
 
 >[!tip] Another List of Famous Designers?
 >This list has a personal purpose. To catalog and identify what and how each of these people/designers have contributed to me!
 
-
 [[Juhani Pallasmaa]] 
 
-[[Naoto Fukasawa]]
+Naoto Fukasawa
 
-[[Charles and Ray Eames]]
+Charles and Ray Eames
 
-[[George Nakashima]]
+George Nakashima
 
-[[Jean Prouve]]
+Jean Prouve
 
-[[Norman Foster]]
+Norman Foster
 
-[[Tony Faddell]]
+Tony Faddell
 
-[[Dieter Rams]]
+Dieter Rams
 
-[[Marcel Breuer]]
+Marcel Breuer
 
-[[Mies van der Rohe]]
+Mies van der Rohe
 
-[[Otl Aicher]]
+Otl Aicher
 
-[[le Corbusier]]
+le Corbusier
 
-[[Michael Thonet]]
+Michael Thonet
 
-[[Tadao Ando]]
+Tadao Ando
 
-[[Virgil Abloh]]
+Virgil Abloh
 
 Kumar Vyas
 
 Pradyumna Vyas
-

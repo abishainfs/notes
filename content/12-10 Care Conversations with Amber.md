@@ -1,4 +1,6 @@
-
+---
+date: 2026-10-12
+---
 big nerd about how language influences the way we perceive the world, so i'll just leave this here since the discussion is already quite long:
 
 “Language disguises the thought; so that from the external form of the clothes one cannot infer the form of the thought they clothe, because the external form of the clothes is constructed with quite another object than to let the form of the body be recognized.” - Ludwing wittgenstein

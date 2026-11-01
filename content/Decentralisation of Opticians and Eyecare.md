@@ -1,4 +1,3 @@
-
 The prevailing sentiment is that chains like Lenskart are trash, provide trash quality for the price and should be avoided at all costs in favour of your local optician.
 
 Let's see how the different areas of care are defined and where this disruption has taken place.

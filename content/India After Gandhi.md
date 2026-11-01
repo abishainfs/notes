@@ -1,4 +1,3 @@
-
 # Annotations by color
 
 # 4 yellow notes • 3 green notes • 103 blue notes
