@@ -13,23 +13,25 @@ configuration:
       code: JetBrains Mono
     colors:
       lightMode:
-        light: "#fbf9f5"         # Warm off-white background
-        lightgray: "#e8e4dc"     # Thin rules and borders
-        gray: "#8c877d"          # Muted metadata
-        darkgray: "#2b2a28"      # Body text
-        dark: "#141413"          # Headings
-        secondary: "#2b2a28"     # Links
-        tertiary: "#78736a"      # Link hover
-        highlight: "rgba(0, 0, 0, 0.04)"
+        light: "#fafafa"         # Page background
+        lightgray: "#e4e4e7"     # Rules and borders
+        gray: "#71717a"          # Muted metadata
+        darkgray: "#3f3f46"      # Body text
+        dark: "#18181b"          # Headings
+        secondary: "#6d3fc4"     # Links, active item
+        tertiary: "#512da8"      # Link hover
+        highlight: "rgba(109, 63, 196, 0.08)"
+        textHighlight: "rgba(109, 63, 196, 0.16)"
       darkMode:
-        light: "#141413"
-        lightgray: "#2b2a28"
-        gray: "#8c877d"
-        darkgray: "#e8e4dc"
-        dark: "#fbf9f5"
-        secondary: "#e8e4dc"
-        tertiary: "#b5b0a5"
-        highlight: "rgba(255, 255, 255, 0.05)"
+        light: "#18181b"
+        lightgray: "#2e2e33"
+        gray: "#a1a1aa"
+        darkgray: "#d4d4d8"
+        dark: "#fafafa"
+        secondary: "#b794f6"
+        tertiary: "#d6bcfa"
+        highlight: "rgba(183, 148, 246, 0.12)"
+        textHighlight: "rgba(183, 148, 246, 0.24)"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
@@ -100,6 +102,20 @@ plugins:
     order: 92
   - source: github:quartz-community/fonts
     enabled: true
+    options:
+      useThemeFonts: false
+      fontOrigin: googleFonts
+      header:
+        name: Newsreader
+        weights: [400, 500, 600]
+        includeItalic: true
+      body:
+        name: Inter
+        weights: [400, 500, 600]
+        includeItalic: true
+      code:
+        name: JetBrains Mono
+        weights: [400, 600]
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
@@ -186,7 +202,7 @@ plugins:
       position: left
       priority: 10
   - source: github:quartz-community/darkmode
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 30
@@ -216,9 +232,7 @@ plugins:
   - source: github:quartz-community/footer
     enabled: true
     options:
-      links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+      links: {}
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
@@ -256,7 +270,7 @@ plugins:
       name: quartz-themes
       repo: github:saberzero1/quartz-themes
       subdir: plugin
-    enabled: true
+    enabled: false
     options:
       theme: default
   - source: github:quartz-community/obsidian-plugin-excalidraw
