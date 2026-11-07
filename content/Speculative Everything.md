@@ -152,11 +152,6 @@ aliases:
 
 ^p152
 
-> [!hl-blue] [p. 160](https://play.google.com/books/reader?id=Nj47MAAAAEAJ&pg=GBS.PA160.w.0.0.0.2) · 30 Dec 2022
-> FORAGERS
-
-^p160-0002
-
 > [!hl-blue] [p. 161](https://play.google.com/books/reader?id=Nj47MAAAAEAJ&pg=GBS.PA161.w.0.0.0.3) · 30 Dec 2022
 > We avoided hyper-realism in the design of the objects and the photography
 
@@ -171,5 +166,7 @@ aliases:
 > museums can become laboratories for rethinking society, places for showing not what already exists, but more important, what is yet to exist.
 
 ^p165
+
+*Words & names:* [FORAGERS](https://play.google.com/books/reader?id=Nj47MAAAAEAJ&pg=GBS.PA160.w.0.0.0.2)
 
 *Bookmarked: [p. 152](https://play.google.com/books/reader?id=Nj47MAAAAEAJ&pg=GBS.PA152), [p. 152](https://play.google.com/books/reader?id=Nj47MAAAAEAJ&pg=GBS.PA152), [p. 158](https://play.google.com/books/reader?id=Nj47MAAAAEAJ&pg=GBS.PA158)*

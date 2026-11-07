@@ -245,11 +245,6 @@ aliases:
 
 ^p689-000301
 
-> [!hl-blue] [p. 693](https://play.google.com/books/reader?id=ZbWIPAAAAEAJ&pg=GBS.PA693.w.0.0.0.3) · 16 Jul 2026
-> Datta Samant
-
-^p693-0003
-
 > [!hl-blue] [p. 694](https://play.google.com/books/reader?id=ZbWIPAAAAEAJ&pg=GBS.PA694) · 16 Jul 2026
 > Beginning on 18 January 1982, the strike was to last almost two years. More than 200, workers participated, and more than 22 million man-days of work were lost.
 
@@ -274,6 +269,8 @@ aliases:
 > One city where the violence was minimal was Calcutta. There were 50, Sikhs resident in the city, many of them taxi-drivers, each one easily identified by his turban and beard. Very few were harmed; and not one died. The West Bengal chief minister, Jyoti Basu, had ordered the police to ensure that peace be maintained.
 
 ^p720-0004
+
+*Words & names:* [Datta Samant](https://play.google.com/books/reader?id=ZbWIPAAAAEAJ&pg=GBS.PA693.w.0.0.0.3)
 
 ### 25. This Son also Rises
 

@@ -35,15 +35,12 @@ Marcus Aurelius · Modern Library
 
 ### Book 3: In Carnuntum
 
-> [!hl-blue] [p. 73](https://play.google.com/books/reader?id=KfnhLwAAAEAJ&pg=GBS.PA73.w.0.0.0.3) · 5 Dec 2022
-> winnowing your thoughts,
-
-^p73-0003
-
 > [!hl-blue] [p. 76](https://play.google.com/books/reader?id=KfnhLwAAAEAJ&pg=GBS.PA76.w.0.0.0.3) · 5 Dec 2022
 > Nothing is so conducive to spiritual growth as this capacity for logical and accurate analysis of everything that happens to us.
 
 ^p76-0003
+
+*Words & names:* [winnowing your thoughts](https://play.google.com/books/reader?id=KfnhLwAAAEAJ&pg=GBS.PA73.w.0.0.0.3)
 
 ### Book 5
 

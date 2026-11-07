@@ -22,11 +22,6 @@ aliases:
 
 ^p14-0001
 
-> [!hl-yellow] [p. 19](https://play.google.com/books/reader?id=Y6c4LwAAAEAJ&pg=GBS.PA19.w.0.0.0.4) · 30 Aug 2022
-> overproduction
-
-^p19-0004
-
 > [!hl-yellow] [p. 25](https://play.google.com/books/reader?id=Y6c4LwAAAEAJ&pg=GBS.PA25.w.0.0.0.3) · 30 Aug 2022
 > It was possible in Japan because we lacked function-oriented unions like those in Europe and the United States.
 
@@ -53,6 +48,8 @@ aliases:
 > Industrial society must develop the courage, or rather the common sense, to procure only what is needed when it is needed and in the amount needed.
 
 ^p27
+
+*Words & names:* [overproduction](https://play.google.com/books/reader?id=Y6c4LwAAAEAJ&pg=GBS.PA19.w.0.0.0.4)
 
 ### Evolution of the Toyota Production System .
 

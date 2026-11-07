@@ -34,10 +34,7 @@ James L. Adams · McGraw-Hill
 
 ^p51-0004
 
-> [!hl-yellow] [p. 51](https://play.google.com/books/reader?id=ijydOAAAAEAJ&pg=GBS.PA51.w.0.0.0.4) · 5 Oct 2025
-> technical balance
-
-^p51-0004-2
+*Words & names:* [technical balance](https://play.google.com/books/reader?id=ijydOAAAAEAJ&pg=GBS.PA51.w.0.0.0.4)
 
 ### Chapter 3 Performance, Cost, and Price: Is It a Good Deal?
 

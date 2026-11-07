@@ -95,10 +95,7 @@ aliases:
 
 ^p69-000301
 
-> [!hl-blue] [p. 72](https://play.google.com/books/reader?id=DF1pJAAAAEAJ&pg=GBS.PA72.w.0.0.0.2.0.1) · 2 Oct 2020
-> Scrapbooking
-
-^p72-000201
+*Words & names:* [Scrapbooking](https://play.google.com/books/reader?id=DF1pJAAAAEAJ&pg=GBS.PA72.w.0.0.0.2.0.1)
 
 ### Chapter Eight: More of the Who: Seeking the Smallest Viable Market
 
@@ -156,14 +153,11 @@ aliases:
 
 ### Chapter Ten: Trust and Tension Create Forward Motion
 
-> [!hl-blue] [p. 93](https://play.google.com/books/reader?id=DF1pJAAAAEAJ&pg=GBS.PA93.w.0.0.0.1.0.1) · 2 Oct 2020
-> Pattern match/pattern interrupt
-
-^p93-000101
-
 > [!hl-blue] [p. 95](https://play.google.com/books/reader?id=DF1pJAAAAEAJ&pg=GBS.PA95.w.0.0.0.4.0.1) · 2 Oct 2020
 > When a new network begins to gain traction, bringing in the cool kids, the powerful early adopters, this traction causes everyone who was part of the old network you’re supplanting to reconsider their allegiance.
 
 ^p95-000401
+
+*Words & names:* [Pattern match/pattern interrupt](https://play.google.com/books/reader?id=DF1pJAAAAEAJ&pg=GBS.PA93.w.0.0.0.1.0.1)
 
 *Bookmarked: [p. 96](https://play.google.com/books/reader?id=DF1pJAAAAEAJ&pg=GBS.PA96.w.0.0.0.4)*

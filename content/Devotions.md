@@ -13,19 +13,8 @@ Mary Oliver · Penguin Publishing Group
 
 ### FROM AMERICAN PRIMITIVE (1983)
 
-> [!hl-blue] [p. 245](https://play.google.com/books/reader?id=kdaCNwAAAEAJ&pg=GBS.PA245.w.0.0.0.0.2) · 22 Dec 2024
-> AUGUST
-
-^p245-00002
-
-> [!hl-blue] [p. 255](https://play.google.com/books/reader?id=kdaCNwAAAEAJ&pg=GBS.PA255.w.0.0.0.0.2) · 18 Dec 2024
-> THE FISH
-
-^p255-00002
+*Words & names:* [AUGUST](https://play.google.com/books/reader?id=kdaCNwAAAEAJ&pg=GBS.PA245.w.0.0.0.0.2) · [THE FISH](https://play.google.com/books/reader?id=kdaCNwAAAEAJ&pg=GBS.PA255.w.0.0.0.0.2)
 
 ### FROM Twelve Moons (1979)
 
-> [!hl-blue] [p. 276](https://play.google.com/books/reader?id=kdaCNwAAAEAJ&pg=GBS.PA276.w.0.0.0.0.2) · 18 Dec 2024
-> THE BLACK SNAKE
-
-^p276-00002
+*Words & names:* [THE BLACK SNAKE](https://play.google.com/books/reader?id=kdaCNwAAAEAJ&pg=GBS.PA276.w.0.0.0.0.2)

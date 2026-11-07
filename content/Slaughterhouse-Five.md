@@ -6,7 +6,4 @@ Kurt Vonnegut · Random House Publishing Group
 
 ### 2
 
-> [!hl-green] [p. 28](https://play.google.com/books/reader?id=9YwyIgAAAEAJ&pg=GBS.PA28) · 24 Nov 2018
-> So it goes
-
-^p28
+*Words & names:* [So it goes](https://play.google.com/books/reader?id=9YwyIgAAAEAJ&pg=GBS.PA28)

@@ -308,16 +308,6 @@ Clayton Christensen · McGraw-Hill Education
 
 ^p238-0002
 
-> [!hl-yellow] [p. 240](https://play.google.com/books/reader?id=B_HxPAAAAEAJ&pg=GBS.PA240.w.0.0.0.4) · 31 Aug 2026
-> Immediate Consequences.
-
-^p240-0004
-
-> [!hl-yellow] [p. 241](https://play.google.com/books/reader?id=B_HxPAAAAEAJ&pg=GBS.PA241) · 31 Aug 2026
-> Deferred Consequences.
-
-^p241
-
 > [!hl-yellow] [p. 241](https://play.google.com/books/reader?id=B_HxPAAAAEAJ&pg=GBS.PA241.w.0.0.0.1.0.1) · 31 Aug 2026
 > Chronic quadrangle: behavior-intensive diseases with deferred consequences
 
@@ -403,6 +393,8 @@ Clayton Christensen · McGraw-Hill Education
 > We know of two business models that can make money by keeping patients healthy: disease management companies like OptumHealth and Healthways, and integrated fixed-fee provider companies like Kaiser Permanente and Geisinger.
 
 ^p259-0003
+
+*Words & names:* [Immediate Consequences](https://play.google.com/books/reader?id=B_HxPAAAAEAJ&pg=GBS.PA240.w.0.0.0.4) · [Deferred Consequences](https://play.google.com/books/reader?id=B_HxPAAAAEAJ&pg=GBS.PA241)
 
 ### CHAPTER 6: Integrating to Make It Happen
 

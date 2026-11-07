@@ -99,11 +99,6 @@ Colin Rose · Random House Publishing Group
 
 ^p34-0003
 
-> [!hl-blue] [p. 35](https://play.google.com/books/reader?id=3GO0IQAAAEAJ&pg=GBS.PA35) · 18 Aug 2019
-> stress inhibits learning
-
-^p35
-
 > [!hl-blue] [p. 35](https://play.google.com/books/reader?id=3GO0IQAAAEAJ&pg=GBS.PA35.w.0.0.0.1) · 18 Aug 2019
 > limbic system effectively controls the mechanisms for our self-preservation—the most powerful forces within us. When you involve the limbic system in learning and teaching, i.e., deliberately involve the emotions , you harness powerful forces that make learning much more effective.
 
@@ -125,6 +120,8 @@ Colin Rose · Random House Publishing Group
 > **Note:** O Lord my God, when I in awesome wonder....
 
 ^p37-0003
+
+*Words & names:* [stress inhibits learning](https://play.google.com/books/reader?id=3GO0IQAAAEAJ&pg=GBS.PA35)
 
 *Bookmarked: [p. 49](https://play.google.com/books/reader?id=3GO0IQAAAEAJ&pg=GBS.PA49)*
 

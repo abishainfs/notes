@@ -148,11 +148,6 @@ Tony Fadell · HarperCollins
 
 ^p135-0001
 
-> [!hl-blue] [p. 136](https://play.google.com/books/reader?id=VFWMLwAAAEAJ&pg=GBS.PA136.w.0.0.0.1) · 18 Jan 2023
-> external heartbeat
-
-^p136-0001
-
 > [!hl-blue] [p. 154](https://play.google.com/books/reader?id=VFWMLwAAAEAJ&pg=GBS.PA154.w.0.0.0.4) · 19 Jan 2023
 > Until you optimize the business, not just the product, you can never build something lasting.
 
@@ -179,6 +174,8 @@ Tony Fadell · HarperCollins
 > creating a space not only for Nest but for the burgeoning smart home ecosystem that started to spring up around us.
 
 ^p156
+
+*Words & names:* [external heartbeat](https://play.google.com/books/reader?id=VFWMLwAAAEAJ&pg=GBS.PA136.w.0.0.0.1)
 
 ### Part IV: Build Your Business
 
@@ -219,11 +216,6 @@ Tony Fadell · HarperCollins
 
 ^p239
 
-> [!hl-blue] [p. 244](https://play.google.com/books/reader?id=VFWMLwAAAEAJ&pg=GBS.PA244.w.0.0.0.2) · 25 Jan 2023
-> CULTURE
-
-^p244-0002
-
 > [!hl-blue] [p. 245](https://play.google.com/books/reader?id=VFWMLwAAAEAJ&pg=GBS.PA245) · 25 Jan 2023
 > Culture arises organically but then needs to be codified to be maintained. So write down your company values and post them on your physical and virtual walls. Share them with new employees. Make them part of every interview with new candidates. Everyone should know what matters at your company—what defines your culture. If you don’t explicitly know your values, you can’t pass them on, maintain them, evolve them, or hire for them.
 
@@ -243,11 +235,6 @@ Tony Fadell · HarperCollins
 > you can’t simply hand someone your résumé at an interview, then lunch, then on a date. Sure, you’re giving them important information, but different moments in the journey require different approaches. Your message needs to fit the customer’s context. You can’t say everything everywhere. So when we were thinking about how the
 
 ^p258-0004
-
-> [!hl-blue] [p. 260](https://play.google.com/books/reader?id=VFWMLwAAAEAJ&pg=GBS.PA260) · 25 Jan 2023
-> Fig. 5.4.
-
-^p260
 
 > [!hl-blue] [p. 262](https://play.google.com/books/reader?id=VFWMLwAAAEAJ&pg=GBS.PA262) · 25 Jan 2023
 > we played every high-quality video everywhere we could. The team picked the elements that would have the most impact— that we could use and reuse for years—then spent the money to do them well. Today, ten years later, Google Nest is still using some of the photos and assets we created before we even launched our company.
@@ -303,6 +290,8 @@ Tony Fadell · HarperCollins
 > My dad was on commission but he would often sacrifice a sale in order to build a personal connection. The best salespeople are the ones who maintain relationships even if it means not making money that day.
 
 ^p277
+
+*Words & names:* [CULTURE](https://play.google.com/books/reader?id=VFWMLwAAAEAJ&pg=GBS.PA244.w.0.0.0.2) · [Fig. 5.4](https://play.google.com/books/reader?id=VFWMLwAAAEAJ&pg=GBS.PA260)
 
 ### Part VI: Be CEO
 

@@ -6,15 +6,12 @@ Louis Rosenfeld · O'Reilly Media
 
 ### 1. The Problems That Information Architecture Addresses
 
-> [!hl-yellow] [p. 33](https://play.google.com/books/reader?id=wyHBMgAAAEAJ&pg=GBS.PA33.w.0.0.0.1.0.1) · 29 Aug 2023
-> Intertwingled
-
-^p33-000101
-
 > [!hl-yellow] [p. 33](https://play.google.com/books/reader?id=wyHBMgAAAEAJ&pg=GBS.PA33.w.0.0.0.2) · 29 Aug 2023
 > In the era of ecosystems, seeing the big picture is more important than ever, and less likely. It’s not simply that we’re forced into little boxes by organizational silos and professional specialization. We like it in there. We feel safe. But we’re not. This is no time to stick to your knitting. We must go from boxes to arrows. Tomorrow belongs to those who connect.
 
 ^p33-0002
+
+*Words & names:* [Intertwingled](https://play.google.com/books/reader?id=wyHBMgAAAEAJ&pg=GBS.PA33.w.0.0.0.1.0.1)
 
 *Bookmarked: [p. 34](https://play.google.com/books/reader?id=wyHBMgAAAEAJ&pg=GBS.PA34.w.0.0.0.4)*
 
@@ -64,11 +61,6 @@ Louis Rosenfeld · O'Reilly Media
 
 ^p90-0001
 
-> [!hl-yellow] [p. 93](https://play.google.com/books/reader?id=wyHBMgAAAEAJ&pg=GBS.PA93.w.0.0.0.1.0.1) · 4 Sep 2023
-> Bottom-Up Information Architecture
-
-^p93-000101
-
 > [!hl-yellow] [p. 94](https://play.google.com/books/reader?id=wyHBMgAAAEAJ&pg=GBS.PA94.w.0.0.0.3) · 4 Sep 2023
 > bottom-up information architecture is suggested by and inherent in the system’s content. It’s important because users are increasingly likely to bypass your system’s top-down information architecture; instead, they’re using web-wide search tools like Google Search, clicking through ads, and clicking links while reading your content via social networks such as Facebook or Twitter to find themselves deep in your site. Once there, they’ll want to jump to other relevant content on your site without learning how to use its top-down structure.
 >
@@ -82,6 +74,8 @@ Louis Rosenfeld · O'Reilly Media
 > **Note:** For bottom up arch. this kind of navigation can really add value, since they're trying to look for something without having the need or impetus to understand the larger top down hierarchy as we've designed it
 
 ^p99-0002
+
+*Words & names:* [Bottom-Up Information Architecture](https://play.google.com/books/reader?id=wyHBMgAAAEAJ&pg=GBS.PA93.w.0.0.0.1.0.1)
 
 *Bookmarked: [p. 93](https://play.google.com/books/reader?id=wyHBMgAAAEAJ&pg=GBS.PA93.w.0.0.0.1)*
 

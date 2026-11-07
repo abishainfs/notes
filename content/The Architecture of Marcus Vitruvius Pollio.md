@@ -27,21 +27,6 @@ Marcus Vitruvius Pollio
 
 ^p33-0004
 
-> [!hl-blue] [p. 34](https://play.google.com/books/reader?id=PeI4MAAAAEAJ&pg=GBS.PA34) · 11 Dec 2022
-> Music
-
-^p34
-
-> [!hl-blue] [p. 34](https://play.google.com/books/reader?id=PeI4MAAAAEAJ&pg=GBS.PA34.w.0.0.0.3) · 11 Dec 2022
-> Law
-
-^p34-0003
-
-> [!hl-blue] [p. 35](https://play.google.com/books/reader?id=PeI4MAAAAEAJ&pg=GBS.PA35) · 11 Dec 2022
-> Astronomy
-
-^p35
-
 > [!hl-blue] [p. 35](https://play.google.com/books/reader?id=PeI4MAAAAEAJ&pg=GBS.PA35.w.0.0.0.1) · 11 Dec 2022
 > Perhaps, to the uninformed, it may appear unaccountable that a man should be able to retain in his memory such a variety of learning
 
@@ -76,6 +61,8 @@ Marcus Vitruvius Pollio
 > those who pass from a hot to a cold climate, far from being injured by the change, are thereby generally strengthened
 
 ^p42-0002
+
+*Words & names:* [Music](https://play.google.com/books/reader?id=PeI4MAAAAEAJ&pg=GBS.PA34) · [Law](https://play.google.com/books/reader?id=PeI4MAAAAEAJ&pg=GBS.PA34.w.0.0.0.3) · [Astronomy](https://play.google.com/books/reader?id=PeI4MAAAAEAJ&pg=GBS.PA35)
 
 *Bookmarked: [p. 30](https://play.google.com/books/reader?id=PeI4MAAAAEAJ&pg=GBS.PA30.w.0.0.0.4), [p. 94](https://play.google.com/books/reader?id=PeI4MAAAAEAJ&pg=GBS.PA94.w.0.0.0.0.4)*
 

@@ -6,36 +6,6 @@ William Shakespeare
 
 ### Contents
 
-> [!hl-green] [p. 1](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA1.w.0.0.0.4.0.1) · 16 Oct 2018
-> HAMLET
-
-^p1-000401
-
-> [!hl-yellow] [p. 1](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA1.w.0.0.0.4.0.1) · 16 Oct 2018
-> CLAUDIUS
-
-^p1-000401-2
-
-> [!hl-yellow] [p. 1](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA1.w.0.0.0.4.0.1) · 16 Oct 2018
-> POLONIUS
-
-^p1-000401-3
-
-> [!hl-green] [p. 1](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA1.w.0.0.0.4.0.1) · 16 Oct 2018
-> HORATIO
-
-^p1-000401-4
-
-> [!hl-yellow] [p. 2](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA2) · 16 Oct 2018
-> ROSENCRANTZ
-
-^p2
-
-> [!hl-yellow] [p. 2](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA2) · 16 Oct 2018
-> GUILDENSTERN
-
-^p2-2
-
 > [!hl-blue] [p. 13](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA13.w.0.0.0.2) · 26 Sep 2018
 > Be wary then, best safety lies in fear. Youth to itself rebels, though none else near.
 
@@ -66,80 +36,15 @@ William Shakespeare
 
 ^p16
 
-> [!hl-yellow] [p. 16](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA16) · 26 Sep 2018
-> clepe
-
-^p16-2
-
-> [!hl-yellow] [p. 16](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA16) · 26 Sep 2018
-> pith
-
-^p16-3
-
-> [!hl-yellow] [p. 20](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA20) · 26 Sep 2018
-> pernicious
-
-^p20
-
-> [!hl-yellow] [p. 20](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA20.w.0.0.0.3) · 26 Sep 2018
-> arrant knave
-
-^p20-0003
-
-> [!hl-yellow] [p. 25](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA25.w.0.0.0.1) · 26 Sep 2018
-> vouchsafe
-
-^p25-0001
-
-> [!hl-yellow] [p. 26](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA26) · 26 Sep 2018
-> liege
-
-^p26
-
-> [!hl-yellow] [p. 27](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA27.w.0.0.0.3) · 26 Sep 2018
-> expostulate
-
-^p27-0003
-
-> [!hl-yellow] [p. 28](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA28.w.0.0.0.3) · 26 Sep 2018
-> fain
-
-^p28-0003
-
-> [!hl-yellow] [p. 29](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA29) · 27 Sep 2018
-> declension
-
-^p29
-
-> [!hl-yellow] [p. 29](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA29.w.0.0.0.2) · 27 Sep 2018
-> arras
-
-^p29-0002
-
-> [!hl-yellow] [p. 31](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA31) · 27 Sep 2018
-> strumpet
-
-^p31
-
 > [!hl-blue] [p. 31](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA31.w.0.0.0.2) · 27 Sep 2018
 > for the very substance of the ambitious is merely the shadow of a dream
 
 ^p31-0002
 
 > [!hl-blue] [p. 31](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA31.w.0.0.0.3) · 27 Sep 2018
-> dream.
-
-^p31-0003
-
-> [!hl-blue] [p. 31](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA31.w.0.0.0.3) · 27 Sep 2018
 > A dream itself is but a shadow.
 
-^p31-0003-2
-
-> [!hl-yellow] [p. 33](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA33) · 27 Sep 2018
-> gratis
-
-^p33
+^p31-0003
 
 > [!hl-yellow] [p. 37](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA37.w.0.0.0.2) · 28 Sep 2018
 > ’Gainst Fortune’s state would treason have pronounc’d.
@@ -151,130 +56,20 @@ William Shakespeare
 
 ^p37-0004
 
-> [!hl-yellow] [p. 39](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA39) · 28 Sep 2018
-> offal
-
-^p39
-
-> [!hl-yellow] [p. 39](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA39.w.0.0.0.1) · 28 Sep 2018
-> scullion
-
-^p39-0001
-
 > [!hl-blue] [p. 39](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA39.w.0.0.0.1) · 28 Sep 2018
 > For murder, though it have no tongue, will speak With most miraculous organ.
 
-^p39-0001-2
-
-> [!hl-yellow] [p. 39](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA39.w.0.0.0.2) · 28 Sep 2018
-> blench
-
-^p39-0002
-
-> [!hl-yellow] [p. 40](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA40.w.0.0.0.2) · 1 Oct 2018
-> Affront
-
-^p40-0002
-
-> [!hl-yellow] [p. 40](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA40.w.0.0.0.2) · 1 Oct 2018
-> espials
-
-^p40-0002-2
-
-> [!hl-yellow] [p. 41](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA41.w.0.0.0.1) · 1 Oct 2018
-> consummation
-
-^p41-0001
-
-> [!hl-yellow] [p. 41](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA41.w.0.0.0.2) · 7 Oct 2018
-> contumely
-
-^p41-0002
-
-> [!hl-yellow] [p. 41](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA41.w.0.0.0.2) · 7 Oct 2018
-> bodkin
-
-^p41-0002-2
-
-> [!hl-yellow] [p. 41](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA41.w.0.0.0.2) · 7 Oct 2018
-> fardels
-
-^p41-0002-3
-
-> [!hl-yellow] [p. 41](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA41.w.0.0.0.2) · 7 Oct 2018
-> bourn
-
-^p41-0002-4
-
-> [!hl-yellow] [p. 41](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA41.w.0.0.0.4) · 7 Oct 2018
-> orisons
-
-^p41-0004
-
-> [!hl-yellow] [p. 42](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA42.w.0.0.0.2) · 7 Oct 2018
-> inoculate
-
-^p42-0002
-
-> [!hl-yellow] [p. 42](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA42.w.0.0.0.3) · 7 Oct 2018
-> arrant
-
-^p42-0003
-
-> [!hl-yellow] [p. 42](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA42.w.0.0.0.3) · 7 Oct 2018
-> knaves
-
-^p42-0003-2
-
-> [!hl-yellow] [p. 42](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA42.w.0.0.0.4) · 7 Oct 2018
-> calumny
-
-^p42-0004
-
-> [!hl-yellow] [p. 43](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA43) · 7 Oct 2018
-> wanton
-
-^p43
-
-> [!hl-yellow] [p. 44](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA44) · 7 Oct 2018
-> entreat
-
-^p44
-
-> [!hl-yellow] [p. 44](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA44.w.0.0.0.1) · 7 Oct 2018
-> lief
-
-^p44-0001
-
-> [!hl-yellow] [p. 44](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA44.w.0.0.0.2) · 7 Oct 2018
-> Termagant
-
-^p44-0002
+^p39-0001
 
 > [!hl-blue] [p. 44](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA44.w.0.0.0.3) · 7 Oct 2018
 > Suit the action to the word, the word to the action
 
 ^p44-0003
 
-> [!hl-yellow] [p. 44](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA44.w.0.0.0.4) · 7 Oct 2018
-> censure
-
-^p44-0004
-
 > [!hl-green] [p. 45](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA45.w.0.0.0.4) · 7 Oct 2018
 > Give me that man That is not passion’s slave, and I will wear him In my heart’s core, ay, in my heart of heart, As I do thee.
 
 ^p45-0004
-
-> [!hl-yellow] [p. 46](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA46) · 7 Oct 2018
-> occulted
-
-^p46
-
-> [!hl-yellow] [p. 46](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA46.w.0.0.0.2) · 7 Oct 2018
-> capons
-
-^p46-0002
 
 > [!hl-green] [p. 48](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA48) · 7 Oct 2018
 > OPHELIA. ’Tis brief, my lord. HAMLET. As woman’s love.
@@ -301,51 +96,6 @@ William Shakespeare
 
 ^p49-0002-2
 
-> [!hl-yellow] [p. 49](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA49.w.0.0.0.2) · 7 Oct 2018
-> repose
-
-^p49-0002-3
-
-> [!hl-yellow] [p. 49](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA49.w.0.0.0.4) · 7 Oct 2018
-> fain
-
-^p49-0004
-
-> [!hl-yellow] [p. 49](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA49.w.0.0.0.4) · 7 Oct 2018
-> beguile
-
-^p49-0004-2
-
-> [!hl-yellow] [p. 50](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA50.w.0.0.0.4) · 13 Oct 2018
-> ungalled
-
-^p50-0004
-
-> [!hl-yellow] [p. 51](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA51) · 13 Oct 2018
-> Jove
-
-^p51
-
-> [!hl-yellow] [p. 51](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA51.w.0.0.0.1) · 13 Oct 2018
-> perdie
-
-^p51-0001
-
-> [!hl-yellow] [p. 51](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA51.w.0.0.0.1) · 13 Oct 2018
-> vouchsafe
-
-^p51-0001-2
-
-> [!hl-yellow] [p. 51](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA51.w.0.0.0.2) · 13 Oct 2018
-> choler
-
-^p51-0002
-
-> [!hl-yellow] [p. 53](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA53.w.0.0.0.1) · 13 Oct 2018
-> Contagion
-
-^p53-0001
-
 > [!hl-green] [p. 53](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA53.w.0.0.0.2) · 13 Oct 2018
 > How in my words somever she be shent, To give them seals never, my soul, consent.
 
@@ -365,45 +115,15 @@ William Shakespeare
 
 ^p58-0002
 
-> [!hl-yellow] [p. 58](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA58.w.0.0.0.2) · 13 Oct 2018
-> apoplex’d
-
-^p58-0002-2
-
-> [!hl-yellow] [p. 58](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA58.w.0.0.0.4) · 13 Oct 2018
-> ardour
-
-^p58-0004
-
-> [!hl-yellow] [p. 59](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA59.w.0.0.0.2) · 13 Oct 2018
-> whet
-
-^p59-0002
-
-> [!hl-yellow] [p. 60](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA60.w.0.0.0.1) · 13 Oct 2018
-> gambol
-
-^p60-0001
-
-> [!hl-yellow] [p. 60](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA60.w.0.0.0.1) · 13 Oct 2018
-> unction
-
-^p60-0001-2
-
 > [!hl-blue] [p. 60](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA60.w.0.0.0.2) · 2 Nov 2018
 > QUEEN. O Hamlet, thou hast cleft my heart in twain. HAMLET. O throw away the worser part of it, And live the purer with the other half.
 
 ^p60-0002
 
-> [!hl-yellow] [p. 60](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA60.w.0.0.0.4) · 2 Nov 2018
-> scourge
-
-^p60-0004
-
 > [!hl-green] [p. 60](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA60.w.0.0.0.4) · 13 Oct 2018
 > I must be cruel, only to be kind
 
-^p60-0004-2
+^p60-0004
 
 > [!hl-blue] [p. 61](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA61.w.0.0.0.2) · 13 Oct 2018
 > Be thou assur’d, if words be made of breath, And breath of life, I have no life to breathe What thou hast said to me.
@@ -427,72 +147,22 @@ William Shakespeare
 
 ^p64-0001
 
-> [!hl-yellow] [p. 65](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA65.w.0.0.0.1) · 16 Oct 2018
-> cicatrice
-
-^p65-0001
-
-> [!hl-yellow] [p. 66](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA66) · 16 Oct 2018
-> ducats
-
-^p66
-
-> [!hl-yellow] [p. 69](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA69) · 16 Oct 2018
-> superfluous
-
-^p69
-
-> [!hl-yellow] [p. 76](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA76) · 27 Oct 2018
-> unction
-
-^p76
-
-> [!hl-yellow] [p. 76](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA76) · 27 Oct 2018
-> mountebank
-
-^p76-2
-
-> [!hl-yellow] [p. 76](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA76) · 27 Oct 2018
-> cataplasm
-
-^p76-3
-
 > [!hl-blue] [p. 82](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA82.w.0.0.0.1) · 2 Nov 2018
 > Imperious Caesar, dead and turn’d to clay, Might stop a hole to keep the wind away.
 
 ^p82-0001
 
-> [!hl-yellow] [p. 82](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA82.w.0.0.0.3) · 2 Nov 2018
-> obsequies
-
-^p82-0003
-
-> [!hl-yellow] [p. 84](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA84.w.0.0.0.1) · 2 Nov 2018
-> Anon
-
-^p84-0001
-
-> [!hl-yellow] [p. 84](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA84.w.0.0.0.3) · 2 Nov 2018
-> bilboes
-
-^p84-0003
-
 > [!hl-blue] [p. 84](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA84.w.0.0.0.3) · 2 Nov 2018
 > Our indiscretion sometime serves us well, When our deep plots do pall; and that should teach us There’s a divinity that shapes our ends, Rough-hew them how we will.
 
-^p84-0003-2
-
-> [!hl-yellow] [p. 85](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA85.w.0.0.0.1) · 2 Nov 2018
-> baseness
-
-^p85-0001
+^p84-0003
 
 > [!hl-yellow] [p. 85](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA85.w.0.0.0.1) · 2 Nov 2018
 > to write fair, and labour’d much How to forget that learning; but, sir, now It did me yeoman’s service. Wilt thou know The effect of what I wrote?
 >
 > **Note:** He regarded formal, articulate writing as pointless, and tried to forget it. "But, sir, now" In the next line, he says it did serve him scarce. ?! AH! Anyhoo, it did help me a little. That's the meaning :)
 
-^p85-0001-2
+^p85-0001
 
 > [!hl-yellow] [p. 85](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA85.w.0.0.0.3) · 2 Nov 2018
 > He should the bearers put to sudden death,
@@ -501,34 +171,6 @@ William Shakespeare
 
 ^p85-0003
 
-> [!hl-yellow] [p. 85](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA85.w.0.0.0.3) · 2 Nov 2018
-> shriving
-
-^p85-0003-2
-
-> [!hl-yellow] [p. 86](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA86.w.0.0.0.3) · 2 Nov 2018
-> chough
-
-^p86-0003
-
-> [!hl-yellow] [p. 87](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA87) · 2 Nov 2018
-> perdition
-
-^p87
-
-> [!hl-yellow] [p. 87](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA87.w.0.0.0.1) · 2 Nov 2018
-> umbrage
-
-^p87-0001
-
-> [!hl-yellow] [p. 88](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA88.w.0.0.0.1) · 2 Nov 2018
-> vouchsafe
-
-^p88-0001
-
-> [!hl-yellow] [p. 89](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA89.w.0.0.0.2) · 2 Nov 2018
-> augury
-
-^p89-0002
+*Words & names:* [HAMLET](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA1.w.0.0.0.4.0.1) · [CLAUDIUS](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA1.w.0.0.0.4.0.1) · [POLONIUS](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA1.w.0.0.0.4.0.1) · [HORATIO](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA1.w.0.0.0.4.0.1) · [ROSENCRANTZ](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA2) · [GUILDENSTERN](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA2) · [clepe](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA16) · [pith](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA16) · [pernicious](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA20) · [arrant knave](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA20.w.0.0.0.3) · [vouchsafe](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA25.w.0.0.0.1) · [liege](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA26) · [expostulate](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA27.w.0.0.0.3) · [fain](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA28.w.0.0.0.3) · [declension](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA29) · [arras](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA29.w.0.0.0.2) · [strumpet](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA31) · [dream](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA31.w.0.0.0.3) · [gratis](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA33) · [offal](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA39) · [scullion](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA39.w.0.0.0.1) · [blench](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA39.w.0.0.0.2) · [Affront](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA40.w.0.0.0.2) · [espials](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA40.w.0.0.0.2) · [consummation](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA41.w.0.0.0.1) · [contumely](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA41.w.0.0.0.2) · [bodkin](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA41.w.0.0.0.2) · [fardels](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA41.w.0.0.0.2) · [bourn](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA41.w.0.0.0.2) · [orisons](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA41.w.0.0.0.4) · [inoculate](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA42.w.0.0.0.2) · [arrant](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA42.w.0.0.0.3) · [knaves](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA42.w.0.0.0.3) · [calumny](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA42.w.0.0.0.4) · [wanton](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA43) · [entreat](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA44) · [lief](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA44.w.0.0.0.1) · [Termagant](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA44.w.0.0.0.2) · [censure](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA44.w.0.0.0.4) · [occulted](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA46) · [capons](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA46.w.0.0.0.2) · [repose](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA49.w.0.0.0.2) · [beguile](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA49.w.0.0.0.4) · [ungalled](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA50.w.0.0.0.4) · [Jove](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA51) · [perdie](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA51.w.0.0.0.1) · [choler](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA51.w.0.0.0.2) · [Contagion](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA53.w.0.0.0.1) · [apoplex’d](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA58.w.0.0.0.2) · [ardour](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA58.w.0.0.0.4) · [whet](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA59.w.0.0.0.2) · [gambol](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA60.w.0.0.0.1) · [unction](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA60.w.0.0.0.1) · [scourge](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA60.w.0.0.0.4) · [cicatrice](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA65.w.0.0.0.1) · [ducats](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA66) · [superfluous](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA69) · [mountebank](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA76) · [cataplasm](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA76) · [obsequies](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA82.w.0.0.0.3) · [Anon](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA84.w.0.0.0.1) · [bilboes](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA84.w.0.0.0.3) · [baseness](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA85.w.0.0.0.1) · [shriving](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA85.w.0.0.0.3) · [chough](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA86.w.0.0.0.3) · [perdition](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA87) · [umbrage](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA87.w.0.0.0.1) · [augury](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA89.w.0.0.0.2)
 
 *Bookmarked: [p. 2](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA2), [p. 39](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA39.w.0.0.0.3), [p. 48](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA48.w.0.0.0.3), [p. 50](https://play.google.com/books/reader?id=9de6IQAAAEAJ&pg=GBS.PA50)*

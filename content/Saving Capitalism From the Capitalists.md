@@ -10,16 +10,6 @@ aliases:
 
 ### Introduction
 
-> [!hl-blue] [p. 10](https://play.google.com/books/reader?id=RExEIwAAAEAJ&pg=GBS.PA10.w.0.0.0.4.0.1) · 19 Apr 2020
-> incumbents
-
-^p10-000401
-
-> [!hl-blue] [p. 11](https://play.google.com/books/reader?id=RExEIwAAAEAJ&pg=GBS.PA11) · 19 Apr 2020
-> distressed
-
-^p11
-
 > [!hl-blue] [p. 11](https://play.google.com/books/reader?id=RExEIwAAAEAJ&pg=GBS.PA11.w.0.0.0.2) · 19 Apr 2020
 > In an economic downturn, the capitalist is more likely to focus on costs of the competition emanating from free markets than on the opportunities they create. And the unemployed worker will find many others in a similar condition and with anxieties similar to his, which will make it easy for them to organize together. Using the cover and the political organization provided by the distressed, the capitalist captures the political agenda.
 
@@ -69,6 +59,8 @@ aliases:
 > those who lose out in competition should be helped, not to continue the lost fight but to ease their pain and to prepare them for a better future.
 
 ^p34-0001
+
+*Words & names:* [incumbents](https://play.google.com/books/reader?id=RExEIwAAAEAJ&pg=GBS.PA10.w.0.0.0.4.0.1) · [distressed](https://play.google.com/books/reader?id=RExEIwAAAEAJ&pg=GBS.PA11)
 
 ### PART I: THE BENEFITS OF FREE FINANCIAL MARKETS
 
@@ -147,11 +139,6 @@ aliases:
 
 ^p58-0001
 
-> [!hl-blue] [p. 58](https://play.google.com/books/reader?id=RExEIwAAAEAJ&pg=GBS.PA58.w.0.0.0.2) · 26 Apr 2020
-> underdevelopment of finance.
-
-^p58-0002
-
 > [!hl-yellow] [p. 58](https://play.google.com/books/reader?id=RExEIwAAAEAJ&pg=GBS.PA58.w.0.0.0.3) · 26 Apr 2020
 > Given the right infrastructure, however, financiers can overcome the tyranny of collateral and connections and make credit available even to the poor. They become a power for the good rather than the guardians of the status quo.
 
@@ -188,3 +175,5 @@ aliases:
 > it is not because of the benevolence of the baker that we eat fresh bread every morning but because of his desire to make money.
 
 ^p68-0002
+
+*Words & names:* [underdevelopment of finance](https://play.google.com/books/reader?id=RExEIwAAAEAJ&pg=GBS.PA58.w.0.0.0.2)

@@ -11,7 +11,4 @@ Shahu Patole · HarperCollins India
 
 ^p28-0001
 
-> [!hl-yellow] [p. 44](https://play.google.com/books/reader?id=lpU8NwAAAEAJ&pg=GBS.PA44.w.0.0.0.2) · 18 Nov 2024
-> The Backyard
-
-^p44-0002
+*Words & names:* [The Backyard](https://play.google.com/books/reader?id=lpU8NwAAAEAJ&pg=GBS.PA44.w.0.0.0.2)

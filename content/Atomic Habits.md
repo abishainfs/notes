@@ -32,11 +32,6 @@ aliases:
 
 ^p104-0003
 
-> [!hl-yellow] [p. 104](https://play.google.com/books/reader?id=a6pcLgAAAEAJ&pg=GBS.PA104.w.0.0.0.4) · 11 Jun 2022
-> The close.
-
-^p104-0004
-
 > [!hl-blue] [p. 105](https://play.google.com/books/reader?id=a6pcLgAAAEAJ&pg=GBS.PA105) · 11 Jun 2022
 > When your friends smoke pot, you give it a try, too.
 
@@ -61,3 +56,5 @@ aliases:
 > When changing your habits means challenging the tribe, change is unattractive. When changing your habits means fitting in with the tribe, change is very attractive.
 
 ^p109-0003
+
+*Words & names:* [The close](https://play.google.com/books/reader?id=a6pcLgAAAEAJ&pg=GBS.PA104.w.0.0.0.4)

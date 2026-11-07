@@ -86,11 +86,6 @@ aliases:
 
 ### CHAPTER FOUR - Exploring the Brain Attic: The Value of Creativity and Imagination
 
-> [!hl-blue] [p. 135](https://play.google.com/books/reader?id=3-EkMAAAAEAJ&pg=GBS.PA135.w.0.0.0.2) · 25 Dec 2022
-> functional fixedness
-
-^p135-0002
-
 > [!hl-blue] [p. 152](https://play.google.com/books/reader?id=3-EkMAAAAEAJ&pg=GBS.PA152.w.0.0.0.3) · 25 Dec 2022
 > Distancing Through Unrelated Activity
 
@@ -106,14 +101,11 @@ aliases:
 
 ^p177-0001
 
+*Words & names:* [functional fixedness](https://play.google.com/books/reader?id=3-EkMAAAAEAJ&pg=GBS.PA135.w.0.0.0.2)
+
 *Bookmarked: [p. 176](https://play.google.com/books/reader?id=3-EkMAAAAEAJ&pg=GBS.PA176.w.0.0.0.1)*
 
 ### CHAPTER FIVE - Navigating the Brain Attic: Deduction from the Facts
-
-> [!hl-blue] [p. 197](https://play.google.com/books/reader?id=3-EkMAAAAEAJ&pg=GBS.PA197.w.0.0.0.3.0.1) · 26 Dec 2022
-> the misinformation effect
-
-^p197-000301
 
 > [!hl-blue] [p. 204](https://play.google.com/books/reader?id=3-EkMAAAAEAJ&pg=GBS.PA204.w.0.0.0.1) · 26 Dec 2022
 > We use the best metric of the future—the
@@ -121,13 +113,10 @@ aliases:
 ^p204-0001
 
 > [!hl-blue] [p. 204](https://play.google.com/books/reader?id=3-EkMAAAAEAJ&pg=GBS.PA204.w.0.0.0.1) · 26 Dec 2022
-> past
+> The past doesn’t often make room for the improbable
 
 ^p204-0001-2
 
-> [!hl-blue] [p. 204](https://play.google.com/books/reader?id=3-EkMAAAAEAJ&pg=GBS.PA204.w.0.0.0.1) · 26 Dec 2022
-> The past doesn’t often make room for the improbable
-
-^p204-0001-3
+*Words & names:* [the misinformation effect](https://play.google.com/books/reader?id=3-EkMAAAAEAJ&pg=GBS.PA197.w.0.0.0.3.0.1) · [past](https://play.google.com/books/reader?id=3-EkMAAAAEAJ&pg=GBS.PA204.w.0.0.0.1)
 
 *Bookmarked: [p. 209](https://play.google.com/books/reader?id=3-EkMAAAAEAJ&pg=GBS.PA209.w.0.0.0.1)*
