@@ -59,8 +59,15 @@ const convertLinks = (text) =>
 const cleanBody = (body) => {
   const lines = []
   let quoteDraft = false
+  let skipping = false
   for (const line of body.split("\n")) {
-    if (/^##\s+related\s*$/i.test(line)) break
+    // Skip a "## Related" section up to the next heading of the same level.
+    if (/^##\s+related\s*$/i.test(line)) {
+      skipping = true
+      continue
+    }
+    if (skipping && /^#{1,2}\s/.test(line)) skipping = false
+    if (skipping) continue
     if (/^_\[your note:/.test(line)) continue
     if (/^> \*\*populate suggestion/.test(line)) {
       quoteDraft = true
@@ -75,7 +82,12 @@ const cleanBody = (body) => {
     }
     lines.push(line)
   }
-  return convertLinks(lines.join("\n")).replace(/\n{3,}/g, "\n\n").trim() + "\n"
+  const text = convertLinks(lines.join("\n"))
+    .replace(/%%[\s\S]*?%%/g, "") // Obsidian comments are private prompts
+    .replace(/\n{3,}/g, "\n\n")
+    // Drop a "## My thinking" heading that has nothing under it yet.
+    .replace(/^## My thinking\s*\n+(?=## |$)/m, "")
+  return text.trim() + "\n"
 }
 
 const contentDir = path.join(repo, "content")

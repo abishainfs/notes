@@ -357,3 +357,45 @@ li.section-li {
     padding-inline: 0.75rem;
   }
 }
+
+// Play Books highlights (callouts named hl-blue, hl-yellow, ...): a quiet coloured bar.
+.callout[data-callout^="hl-"] {
+  --color: #8a8a8a;
+  --border: transparent;
+  --bg: transparent;
+  border: none;
+  border-left: 3px solid var(--color);
+  border-radius: 0;
+  padding: 0.1rem 0 0.1rem 1rem;
+  margin: 1.75rem 0 0.25rem;
+
+  &[data-callout="hl-blue"] { --color: #48b2c4; }
+  &[data-callout="hl-yellow"] { --color: #e2b028; }
+  &[data-callout="hl-green"] { --color: #7cac54; }
+  &[data-callout="hl-red"] { --color: #de7092; }
+  &[data-callout="hl-orange"] { --color: #ec8c5a; }
+
+  > .callout-title {
+    padding: 0;
+    gap: 0;
+    font-size: 0.8125rem;
+
+    .callout-icon { display: none; }
+    .callout-title-inner,
+    .callout-title-inner p,
+    .callout-title-inner a {
+      color: var(--gray);
+      font-weight: 400;
+      text-decoration: none;
+    }
+  }
+
+  > .callout-content > p:first-child {
+    font-family: Georgia, "Iowan Old Style", serif;
+    font-size: 1.05rem;
+    line-height: 1.65;
+    color: var(--dark);
+  }
+
+  strong { color: var(--gray); font-weight: 600; }
+}
